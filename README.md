@@ -1,5 +1,3 @@
-# 💫About Me :
-========================================
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/RicotKey) 
@@ -10,9 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RicotKey&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RicotKey&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RicotKey&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=RicotKey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=RicotKey&icon=4&color=9)](https://visitcount.itsvg.in)
